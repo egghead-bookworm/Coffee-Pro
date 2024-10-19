@@ -1,0 +1,1 @@
+Credits to "Programming hero" for the base project. The default search engine is "Ecosia". 
